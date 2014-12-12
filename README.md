@@ -21,3 +21,24 @@ Manshar is built using AngualrJS on the frontend and Ruby on Rails on the backen
 If you have any questions abotu the project and how to contribute please email us at core@manshar.com we'll be happy to talk to you!
 
 
+#ARABIC
+
+
+
+[Manshar](http://www.manshar.com/) منشر منصة عربية للنشر  تركز بشكل رئيسي على المحتوى، مما يجعله أجمل وأسهل للقراءة دون أي ملهيات ليس لها علاقة بالمضمون . 
+<p align="center"><img src="http://storage.googleapis.com/public-assets/screenshots/Screen%20Shot%202014-11-23%20at%201.25.05%20PM.png" width="700px" alt="Manshar Main Page Screenshot"></p>
+
+يهدف منشر الى جعل تجربة التدوين باللغة العربية أسهل من أي وقت مضى من خلال توفير محرر الذي به كل ما يحتاجه المدون من انماط وتعديلات لكي بتبين له بالضبط كيف ستبدو.
+<p align="center"><img src="http://storage.googleapis.com/public-assets/screenshots/Screen%20Shot%202014-11-23%20at%201.01.43%20PM.png" width="500px" alt="Manshar Editor Screenshot"></p>
+
+بالإضافة إلى مهمة منشر في نشر ثقافة التدوين باللغة العربية والمساهمة في تطوير المحتوى العربي، تهدف منصة منشر أيضا إلى جمع أفضل المطورين العرب حول المشروع من خلال جعلها مفتوحة المصدر ومتاحة لأي شخص مهتم للانضمام، لنشر ثقافة التعاون والمساهمة في أوساط مجتمع المطورين.
+
+بدأ منشر من طرف [محمد الخطيب] (https://plus.google.com/+MohammadKhatib/posts)، وهو مطور ويب في جوجل،  في محاولة محاولة للمساهمة في حل مشكل نقص المحتوى العربي على الإنترنت من خلال توفير أدوات أفضل  لإنشاء و انشر المحتوى العربي.
+
+الرجاء زيارة موقع [Manshar.org] (http://www.manshar.org) للقراءة عن منشر باللغة العربية.
+
+## [المساهمة في المنشر] (https://github.com/manshar/manshar/blob/master/CONTRIBUTING.md) 
+بنيت منصة منشر باستخدام AngualrJS على الواجهة وruby on rails على الواجهة الخلفية. الواجهة الخلفية فصلت تماما لتعطيك فرصة أفضل في المساهمة في المشروع إذا كنت على دراية تقنية بسيطة أو إذا كنت ترغب في المساهمة في واحد منهم دون الرغبة في التعامل مع الآخرى.
+
+## أسئلة واقتراحات
+ إذا كان لديك أي أسئلة حول المشروع وكيفية المساهمة يرجى مراسلتنا على core@manshar.com سنكون سعداء في التحدث إليكم!
